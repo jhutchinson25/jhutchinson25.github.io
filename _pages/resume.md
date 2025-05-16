@@ -1,2 +1,2 @@
 # Resume
-[Download My Resume](./assets/resume.pdf)
+[Download My Resume](../assets/resume.pdf)
