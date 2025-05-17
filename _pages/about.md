@@ -1,3 +1,9 @@
+---
+layout: default
+title: About Me
+permalink: /about-me/
+---
+
 # About Me
 I’m John Hutchinson, a data scientist and cloud engineer focused on applying machine learning and operations research to real-world decision-making problems—especially in healthcare.
 
