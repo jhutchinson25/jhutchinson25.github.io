@@ -4,11 +4,42 @@ title: About
 permalink: /about/
 ---
 
-# About Me
-I’m John Hutchinson, a data scientist and cloud engineer focused on applying machine learning and operations research to real-world decision-making problems—especially in healthcare.
+# 👋 Hi, I'm John Hutchinson
 
-My recent work centered on optimizing clinical scheduling through probabilistic modeling. By estimating appointment durations and no-show probabilities using conditional kernel density methods, I developed scheduling algorithms that could increase provider utilization and throughput, resulting in a >20% increase in patients seen annually.
+I'm a data scientist with a passion for:
 
-Beyond healthcare, I’ve built full-stack ML solutions using Azure ML SDK v2, MLflow, and Streamlit, deploying real-time scoring endpoints for business applications like customer churn prediction. I specialize in statistical modeling, cloud-based MLOps, and interpretable machine learning using tools like SHAP and Dask.
+- Machine learning & optimization
+- Cloud platforms (Azure, AWS)
+- Building impactful analytics tools
 
-I hold the Azure Data Scientist Associate (DP-100) certification and have published research on performance modeling in sports analytics. I’m recently received a B.S. in Industrial and Systems Engineering with a Mathematics minor at Liberty University, where I focused on data-driven optimization and applied ML systems.
+## 🚀 My Mission
+
+To turn messy data into intelligent, production-ready solutions that drive business value.
+
+## 📚 Background
+
+- 🎓 BS in Industrial & Systems Engineering (Liberty University)
+- 🧠 Research: Probabilistic scheduling, Data-driven optimization, Applied machine learning
+- 🏆 DP-100 Certified Azure Data Scientist Associate
+
+## 💼 Projects
+
+- 🧮 **Scheduling Optimization for Healthcare**
+  - Developed a weighted scheduling algorithm to reduce no-shows and increase provider utilization
+  - Achieved >20% improvement in patients seen annually
+
+- 🔍 **Customer Churn Prediction**
+  - Built and deployed a predictive model on Azure ML to identify at-risk users
+  - Integrated with cloud pipelines for automated scoring
+
+- 🐎 **Equestrian Ranking Prediction**
+  - Predicted horse-rider team rankings using FEI showjumping data
+  - Engineered features like fatigue, experience, and performance volatility
+  - Achieved interpretable models for ranking estimation and scenario simulation
+
+
+## 📬 Contact
+
+- 📧 Email: [jhutchinson2502@outlook.com](mailto:jhutchinson2502@outlook.com)
+- 💼 [LinkedIn](https://linkedin.com/in/-john-hutchinson-)
+- 💻 [GitHub](https://github.com/jhutchinson25)
