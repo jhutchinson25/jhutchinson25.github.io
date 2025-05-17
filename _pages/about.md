@@ -9,7 +9,7 @@ permalink: /about/
 I'm a data scientist with a passion for:
 
 - Machine learning & optimization
-- Cloud platforms (Azure, AWS)
+- Cloud platforms (Azure)
 - Building impactful analytics tools
 
 ## 🚀 My Mission
@@ -34,8 +34,8 @@ To turn messy data into intelligent, production-ready solutions that drive busin
 
 - 🐎 **Equestrian Ranking Prediction**
   - Predicted horse-rider team rankings using FEI showjumping data
-  - Engineered features like fatigue, experience, and performance volatility
-  - Achieved interpretable models for ranking estimation and scenario simulation
+  - Engineered features to reflect skill and experience
+  - Achieved interpretable models for ranking estimation and feature analysis
 
 
 ## 📬 Contact
