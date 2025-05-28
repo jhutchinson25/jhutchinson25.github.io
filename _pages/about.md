@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -23,7 +22,7 @@ permalink: /about/
     h1, h2, h3 {
       color: #ffffff;
       font-weight: 600;
-      margin-top: 2rem;
+  
       margin-bottom: 0.5rem;
     }
     p, li {
@@ -46,19 +45,8 @@ permalink: /about/
     .section {
       margin-bottom: 2rem;
     }
-    .resume-link {
-      display: inline-block;
-      background-color: #4ea1ff;
-      color: #121212;
-      padding: 0.5rem 1rem;
-      border-radius: 4px;
-      font-weight: 600;
-      text-decoration: none;
-      margin-top: 1rem;
-    }
-    .resume-link:hover {
-      background-color: #3a8ddb;
-    }
+  
+     
   </style>
 </head>
 <body>
@@ -126,8 +114,6 @@ permalink: /about/
       GPA: 3.93 | Dean’s List | Summa Cum Laude | Honors College
     </p>
   </section>
-
-  <a href="/files/resume.pdf" class="resume-link" target="_blank" rel="noopener">Download Resume (PDF)</a>
 
 </body>
 </html>
