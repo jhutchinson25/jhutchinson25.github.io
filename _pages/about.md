@@ -9,45 +9,7 @@ permalink: /about/
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>About John Hutchinson</title>
-  <style>
-
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      line-height: 1.6;
-      margin: 2rem 1.5rem;
-      max-width: 900px;
-      margin-left: auto;
-      margin-right: auto;
-    }
-    h1, h2, h3 {
-      color: #ffffff;
-      font-weight: 600;
-  
-      margin-bottom: 0.5rem;
-    }
-    p, li {
-      margin-bottom: 1rem;
-    }
-    a {
-      color: #4ea1ff;
-      text-decoration: none;
-    }
-    a:hover, a:focus {
-      text-decoration: underline;
-    }
-    ul {
-      margin-left: 1.5rem;
-    }
-    hr {
-      border: 1px solid #333333;
-      margin: 2rem 0;
-    }
-    .section {
-      margin-bottom: 2rem;
-    }
-  
-     
-  </style>
+ 
 </head>
 <body>
 
